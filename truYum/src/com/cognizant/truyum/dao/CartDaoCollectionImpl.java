@@ -84,7 +84,7 @@ public class CartDaoCollectionImpl implements CartDao {
 			}
 		}
 		userCarts.get(userId).setMenuItemList(removeList);
-
+		//new change
 	}
 
 }
